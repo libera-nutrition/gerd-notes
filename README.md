@@ -11,3 +11,10 @@ No part of this document or repository should be considered professional advice.
 4. Contrary to popular advice for acid reflux, consider not raising the head of your bed at all. Although raising the head while sleeping does help with acid reflux while in bed, it absolutely can misalign the spine, resulting in chronic lower back pain which subsequently also manifests as referred leg pain.
 
 ## DOs
+### Diet
+1. Always eat slowly and consciously, never in a rush or hurriedly. The slower you eat, the better and longer you chew, the less is the reflux.
+2. If possible, eat at fixed times during the day. This allows the body to avoid erroneous scheduled pre-secretions of acid. It is understandable if this is not feasible.
+### Supplements
+### Medicines
+### Lifestyle
+### Exercises
