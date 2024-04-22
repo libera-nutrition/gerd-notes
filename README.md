@@ -1,5 +1,5 @@
 # gerd-notes
-This document contains notes for managing acid reflux as learned from personal experience. To contribute changes to this document, after logging in to GitHub, either create an [issue](https://github.com/impredicative/gerd-notes/issues), or start a [discussion](https://github.com/impredicative/gerd-notes/discussions), or submit a [pull request](https://github.com/impredicative/gerd-notes/pulls).
+This document contains notes for managing acid reflux as learned from personal experience. To contribute changes to this document, after logging in to [GitHub](https://github.com/), either create an [issue](https://github.com/impredicative/gerd-notes/issues), or start a [discussion](https://github.com/impredicative/gerd-notes/discussions), or submit a [pull request](https://github.com/impredicative/gerd-notes/pulls).
 
 ## Disclaimer
 No part of this document or repository should be considered professional advice. Consult a doctor.
