@@ -58,6 +58,8 @@ No part of this document or repository should be considered professional advice.
 1. Alginate capsules after meals and before bed
 2. Acetic acid / vinegar capsules after meals
 3. Digestive enzymes capsules after meals
+### Lifestyle
+1. Sleeping on the left side (as opposed to the right side).
 ### Exercise
 1. Esophageal sphincter exercise as documented in DOI: 10.7759/cureus.24122
 ### Surgery
