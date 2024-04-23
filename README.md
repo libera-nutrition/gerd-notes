@@ -16,7 +16,11 @@ No part of this document or repository should be considered professional advice.
 2. Eat to minimize abdominal fat. This is because even a little abdominal fat risks gravely worsened reflux. Every extra inch of waist width can worsen reflux. Both a high-processed-carb diet and a high-saturated-fat diet will typically add abdominal fat. In contrast, a moderate-unprocessed-carbs and high-fiber diet are not expected to add abdominal fat.
 3. If possible, eat at fixed times during the day. This allows the body to avoid erroneous scheduled pre-secretions of acid. It is understandable if this is not feasible.
 ### Supplements
-1. Gastritis is a common initial co-occurrence with reflux. Its symptoms can be minimized by taking 500 mg of vitamin C once or twice daily. If more support is needed, L-glutamine powder at a dose of 5 grams taken once or twice daily also helps with healing.
+1. Gastritis is a common initial co-occurrence with reflux. Its symptoms can be minimized by taking 500 mg of regular vitamin C once or twice daily.
+2. Zinc L-carnosine also is an excellent supplement and is greatly encouraged for healing, at a maximum daily dose of 8 mg of elemental zinc taken twice daily for lifetime use. That's a total of 16 mg of supplemental zinc per day. This dose should not be exceeded because after 2-3 months, exceeding it will lead to worsened cognition due to excessive zinc with a copper deficiency. To prevent an overdose, all other zinc supplements should be discontinued if this is used. As needed, the dose can optionally be increased to 24 or 32 mg for the first month when starting the supplement for the first time.
+3. Melatonin is linked to cancer prevention. Uncontrolled reflux is associated with esophageal and gastric cancer, so melatonin could help somewhat lower this risk. The preferred dose of melatonin seems to gradually increase with age. Consider these ballpark doses in mg by age: 20-25: 0.5; 26-30: 1; 31-35: 2; 36-40: 3; 41:45: 4; 46+: 5.
+### Powders
+1. If more support is needed for healing from gastritis or mild ulcers, L-glutamine powder at a dose of 5 grams taken once or twice daily is pretty good.
 ### Medicines
 ### Lifestyle
 ### Exercises
