@@ -13,7 +13,7 @@ No part of this document or repository should be considered professional advice.
 ## DOs
 ### Diet
 1. Always eat slowly and consciously, never in a rush or hurriedly. The slower you eat, the better and longer you chew, the less is the reflux.
-2. Eat to minimize abdominal fat. This is because even a little abdominal fat risks gravely worsened reflux. Every extra inch of waist width can worsen reflux. Both a high-processed-carb diet and a high-saturated-fat diet will typically add abdominal fat. In contrast, a moderate-unprocessed-carbs and high-fiber diet are not expected to add abdominal fat.
+2. Eat to minimize abdominal fat. This is because even a little abdominal fat risks gravely worsened reflux. Every extra inch of waist width can significantly worsen reflux. Both a high-processed-carb diet and a high-saturated-fat diet will typically add abdominal fat, as will the absence of sufficient physical activity. In contrast, a moderate-unprocessed-carbs and high-fiber diet is not expected to add abdominal fat.
 3. If possible, eat at fixed times during the day. This allows the body to avoid erroneous scheduled pre-secretions of acid. It is understandable if this is not feasible.
 ### Supplements
 1. Gastritis is a common initial co-occurrence with reflux. Its symptoms can be minimized by taking 500 mg of regular vitamin C once or twice daily.
