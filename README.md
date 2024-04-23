@@ -10,6 +10,7 @@ No part of this document or repository should be considered professional advice.
 ### Food
 1. Do not eat food in disposable cardboard plates or boxes, as these may very well continue to be lined with PFAS for years to come. Such surfaces feel unusually smooth to touch for cardboard. Prefer a regular ceramic, glass, or steel plate instead as these are food-safe materials that will not expose you to toxins such as PFAS, microplastics, nanoplastics, phthalates, or bisphenols. This will not help with reflux, but it will help contribute to stomach health, with the alternative risking chronic low-grade stomach pain and inflammation.
 2. Do not stop eating certain healthy foods because someone says they worsen reflux. It is best to repeatedly test and verify such assertions before taking action. These foods often are extremely nutritious, and discontinuing them comes with a cost.
+3. Avoid eating a few hours before bed. Leftover food in the stomach at bedtime risks worsening esophageal reflux at night while the body is flat.
 ### Drink
 1. Do not consume alcohol regularly as it is notorious for worsening reflux and for increasing the risk of upper gastrointestinal cancers. Sufficiently infrequent consumption may be tolerable.
 ### Medicines
@@ -45,6 +46,7 @@ No part of this document or repository should be considered professional advice.
 2. It has interestingly been observed that a 10-day course of a strong antibiotic, e.g. amoxicillin plus clavulanate, taken two or three times daily, lowers observed reflux for a few weeks. The hypothesis is that this antibiotic could potentially help reflux is by killing bad bacteria that are contributing to the reflux, although eventually the bad bacteria find their way back if care is not taken. Note that this antibiotic is a powerful one, and is not safe for use without some considerations. Firstly, its very first pill can result in a significant headache, possibly caused by a mass die-off of healthy bacteria. Secondly, a powerful probiotic, e.g. Swanson 25-strain SWA030, should almost certainly be taken several hours after each pill of this antibiotic, without which there is a risk of colonization by pathogenic bacteria or fungi.
 ### Lifestyle
 1. It is said to not wear very tight pants, clothes, or belts, as these may risk pushing food up, and worsening reflux.
+2. It is okay to use a second pillow or a thicker pillow to raise the neck just slightly while in bed. This might minimize reflux just slightly while in bed. It should not be raised excessively though, or neck pain will surely result. Over time the pillows can flatten, so replacing them or adding to them can become necessary.
 ### Monitoring
 1. A routine checkup by an experienced MD gastroenterologist is recommended, particularly via an upper endoscopy examination procedure which requires sedation.
 ### Exercise
