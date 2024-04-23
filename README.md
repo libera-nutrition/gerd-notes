@@ -3,8 +3,7 @@ This document contains practical notes for managing gastroesophageal reflux and 
 
 To submit a correction, after logging in to [GitHub](https://github.com/), create an [issue](https://github.com/impredicative/gerd-notes/issues) or submit a [pull request](https://github.com/impredicative/gerd-notes/pulls). To submit an idea, start a [discussion](https://github.com/impredicative/gerd-notes/discussions). To track changes, use the Watch feature.
 
-## Disclaimer
-No part of this document or repository should be considered professional advice. Consult a doctor.
+As a disclaimer, no part of this document or repository should be considered professional advice. Consult a doctor.
 
 ## DONTs
 ### Food
