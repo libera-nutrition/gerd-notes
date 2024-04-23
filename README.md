@@ -45,7 +45,8 @@ No part of this document or repository should be considered professional advice.
 2. It has interestingly been observed that a 10-day course of a strong antibiotic, e.g. amoxicillin plus clavulanate, taken two or three times daily, lowers observed reflux for a few weeks. The hypothesis is that this antibiotic could potentially help reflux is by killing bad bacteria that are contributing to the reflux, although eventually the bad bacteria find their way back if care is not taken. Note that this antibiotic is a powerful one, and is not safe for use without some considerations. Firstly, its very first pill can result in a significant headache, possibly caused by a mass die-off of healthy bacteria. Secondly, a powerful probiotic, e.g. Swanson 25-strain SWA030, should almost certainly be taken several hours after each pill of this antibiotic, without which there is a risk of colonization by pathogenic bacteria or fungi.
 ### Lifestyle
 1. It is said to not wear very tight pants, clothes, or belts, as these may risk pushing food up, and worsening reflux.
-2. A routine checkup by an experienced MD gastroenterologist is recommended, particularly via an upper endoscopy examination procedure which requires sedation.
+### Monitoring
+1. A routine checkup by an experienced MD gastroenterologist is recommended, particularly via an upper endoscopy examination procedure which requires sedation.
 ### Exercise
 1. Any exercise that increases resting metabolism is good for burning abdominal fat, thereby lowering reflux. All aerobic and anaerobic exercises are expected have this effect. For those with a sedentary lifestyle, the bare minimum that must be done is to walk daily for an hour, if only at home, as this too can eventually be effective for burning abdominal fat. Time spent walking while listening to a podcast passes by very quickly. Ensure excellent hydration during exercise.
 
