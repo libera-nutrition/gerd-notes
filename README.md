@@ -16,10 +16,12 @@ No part of this document or repository should be considered professional advice.
 7. Do not eat food in disposable cardboard plates or boxes that may very well continue to be lined with PFAS for years to come. These plates feel unusually smooth to touch for cardboard. Prefer a regular ceramic, glass, or steel plate instead as these are food-safe materials that will not expose you to toxins such as PFAS, microplastics, nanoplastics, phthalates, or bisphenols. This will not help with reflux, but it will help contribute to stomach health, with the alternative risking chronic low-grade stomach pain and inflammation.
 
 ## DOs
-### Diet
+### Food
 1. Always eat slowly and consciously, chewing very well. Never eat in a rush or hurriedly. The slower you eat, the better and longer you chew, the easier it is for the body to digest the food, and the less is the reflux.
 2. Eat to minimize abdominal fat. This is because even a little abdominal fat risks gravely worsened reflux. Every extra inch of waist width can significantly worsen reflux. Both a high-processed-carb diet and a high-saturated-fat diet will typically add abdominal fat, as will the absence of sufficient physical activity. In contrast, a moderate-unprocessed-carbs and high-fiber diet is not expected to add abdominal fat.
 3. If possible, eat at fixed times during the day. This allows the body to avoid erroneous scheduled pre-secretions of acid. It is understandable if this is not feasible.
+### Drink
+1. Fully clean all water related glasses, cups, bottles, and pitchers routinely. If cleaning by hand, use a deep scrubbing brush that reaches all areas, inside and outside. Fully clean them at least once every week with water, and at least once every two weeks with dish soap. Be sure that the dish soap is washed off completely, with no residue. Failure to clean them in this way will lead to the growth of bacteria and slime, both of which risk worsened reflux upon ingestion.
 ### Supplements
 1. Gastritis is a common initial co-occurrence with reflux. Its symptoms, including the feeling of a chronically burning stomach, can be minimized by taking 500 mg of regular vitamin C once or twice daily for life.
 2. Zinc L-carnosine also is an excellent supplement and is greatly encouraged for healing, at a maximum daily dose of 8 mg of elemental zinc taken twice daily for lifetime use. That's a total of 16 mg of supplemental zinc per day. This dose should not be exceeded because after 2-3 months, exceeding it will lead to worsened cognition due to excessive zinc with a copper deficiency. To prevent an overdose, all other zinc supplements should be discontinued if this is used. As needed, the dose can optionally be increased to 24 or 32 mg for the first month when starting the supplement for the first time.
@@ -35,12 +37,12 @@ No part of this document or repository should be considered professional advice.
 ### Exercises
 
 ## UNCERTAIN
-### Diet
-* It is unclear if chlorination or fluoridation or their toxic byproducts in tap water contribute to reflux. To test, filtered water can be consumed with a filter that effectively removes these and other chemicals. Reverse osmosis (RO) removes these chemicals, but a pH plus mineralization cartridge must necessarily be used with RO, and also be replaced very regularly.
+### Drink
+1. It is unclear if chlorination or fluoridation or their toxic byproducts in tap water contribute to reflux. To test, filtered water can be consumed with a filter that effectively removes these and other chemicals. Reverse osmosis (RO) removes these chemicals, but a pH plus mineralization cartridge must necessarily be used with RO, and also be replaced very regularly.
 
 ## UNEXPLORED
 ### Supplements
-* Alginate capsules after meals and before bed
-* Acetic acid / vinegar capsules after meals
-* Digestive enzymes capsules after meals
+1. Alginate capsules after meals and before bed
+2. Acetic acid / vinegar capsules after meals
+3. Digestive enzymes capsules after meals
 ### Exercises
