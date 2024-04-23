@@ -25,6 +25,11 @@ No part of this document or repository should be considered professional advice.
 4. Other vitamin and mineral supplements such as selenium, vitamin E, vitamin B9 (folate), and vitamin D3, if in optimal doses, are also individually expected to lower the risk of upper gastrointestinal cancers, although they may not help directly with tissue irritation from reflux.
 ### Powders
 1. If more support is needed for healing gastritis or mild ulcers, L-glutamine powder at a dose of 5 grams taken once or twice daily is pretty good.
+2. Instead of antacid tablets with harmful sugars and additives, pure calcium carbonate powder is an excellent antacid for routine daily use, but it must be swallowed very slowly for it to coat the esophagus on its way into the stomach. The NOW brand has a good product that is a 12-ounce container of it without any additive. A small metal scoop of size 1/16 or 1/8 tsp can be used, but the scoop must be kept clean and dry. It is useful to clean the scoop with soap every two to three weeks, and to dry it fully before reinserting it into the container. This approach is also usable while traveling, but the powder must be carried in its original branded container that doesn't arouse excessive suspicion at airports and borders. It is also very beneficial to take this powder before bed, for it to function overnight when the risk of damage to the esophagus is maximum due to the flat position. Excessive intake of calcium carbonate powder can irritate the stomach, but this irritation is prevented or remedied by consuming a full glass of water. Magnesium carbonate powder can also be used, but unlike calcium, the body does not tolerate too much supplemental magnesium. Note that capsules won't work at all as neither coat the esophagus nor disperse well in the stomach.
 ### Medicines
 ### Lifestyle
 ### Exercises
+
+# UNEXPLORED
+* Acetic acid / vinegar capsules after meals
+* Digestive enzymes capsules
