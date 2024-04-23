@@ -47,11 +47,11 @@ As a disclaimer, no part of this document or repository should be considered pro
 1. Fully clean all water related glasses, cups, bottles, and pitchers routinely. If cleaning by hand, use a deep scrubbing brush that reaches all areas, inside and outside. Fully clean them at least once every week with water, and at least once every two weeks with dish soap. Be sure that the dish soap is washed off completely, with no residue. Failure to clean them in this way will lead to the growth of bacteria, slime, and even mold, all of which risk substantially worsened reflux upon ingestion. A sudden increase in reflux symptoms can sometimes be ascribed to this avoidable cause.
 ### Lifestyle
 1. It is said to not wear very tight pants, clothes, or belts, as these may risk pushing food up and thereby worsening reflux.
-2. It is okay to use a second pillow or a thicker pillow to raise the neck just slightly while in bed. This might minimize reflux just slightly while in bed. It should not be raised excessively though, or neck pain will surely result. Over time the pillows can flatten, so replacing them or adding to them can become necessary.
+2. It is okay to use a second pillow or a thicker pillow to raise the neck just slightly while in bed. This might minimize reflux just slightly while in bed. The effective pillow height should not be raised excessively, or neck pain will surely result. Over time the pillows can flatten, so replacing them or adding to them can become necessary.
 ### Exercise
-1. Any exercise that increases resting metabolism is good for burning abdominal fat, thereby lowering reflux. All aerobic and anaerobic exercises are expected have this effect. For those with a sedentary lifestyle, the bare minimum that must be done is to walk daily for an hour, if only at home, as this too can eventually be effective for burning abdominal fat. Time spent walking while listening to a podcast passes by very quickly. Ensure excellent hydration during exercise.
+1. Any exercise that increases resting metabolism is good for burning abdominal fat, thereby lowering reflux. All aerobic and anaerobic exercises are expected have this effect. For those with a sedentary lifestyle, the bare minimum that must be done is to walk daily for an hour, if only at home, as this too can eventually be effective for burning abdominal fat. Time spent walking while listening to a podcast passes by quickly. Ensure excellent hydration during exercise.
 ### Monitoring
-1. A routine checkup by an experienced MD gastroenterologist is recommended, particularly via an upper endoscopy examination procedure which requires sedation.
+1. A routine checkup by an experienced and trustworthy MD gastroenterologist is recommended, particularly via an upper endoscopy examination procedure which requires sedation. Be sure to check reviews before scheduling an appointment.
 
 
 ## MAYBEs
