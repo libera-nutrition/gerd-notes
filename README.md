@@ -36,7 +36,7 @@ No part of this document or repository should be considered professional advice.
 
 ## UNCERTAIN
 ### Diet
-* It is unclear if chlorination or fluoridation or their toxic byproducts in tap water contribute to reflux. To test, filtered water can be consumed with a filter that effectively removes these and other chemicals. 
+* It is unclear if chlorination or fluoridation or their toxic byproducts in tap water contribute to reflux. To test, filtered water can be consumed with a filter that effectively removes these and other chemicals. Reverse osmosis (RO) removes these chemicals, but a pH plus mineralization cartridge must necessarily be used with RO, and also be replaced very regularly.
 
 ## UNEXPLORED
 ### Supplements
