@@ -1,5 +1,5 @@
 # gerd-notes
-This document contains practical notes for managing gastroesophageal reflux as learned from personal experience. To contribute changes to this document, after logging in to [GitHub](https://github.com/), either create an [issue](https://github.com/impredicative/gerd-notes/issues), or start a [discussion](https://github.com/impredicative/gerd-notes/discussions), or submit a [pull request](https://github.com/impredicative/gerd-notes/pulls). To track changes to this repository, use the Watch feature.
+This document contains practical notes for managing gastroesophageal reflux as learned from years of personal experience. To submit a correction, after logging in to [GitHub](https://github.com/), create an [issue](https://github.com/impredicative/gerd-notes/issues) or submit a [pull request](https://github.com/impredicative/gerd-notes/pulls). To submit an idea, start a [discussion](https://github.com/impredicative/gerd-notes/discussions). To track changes, use the Watch feature.
 
 ## Disclaimer
 No part of this document or repository should be considered professional advice. Consult a doctor.
