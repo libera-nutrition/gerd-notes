@@ -33,5 +33,6 @@ No part of this document or repository should be considered professional advice.
 ### Exercises
 
 # UNEXPLORED
+* Alginate capsules
 * Acetic acid / vinegar capsules after meals
 * Digestive enzymes capsules
