@@ -34,7 +34,9 @@ No part of this document or repository should be considered professional advice.
 ### Lifestyle
 ### Exercises
 
-# UNEXPLORED
+## UNEXPLORED
+### Supplements
 * Alginate capsules after meals and before bed
 * Acetic acid / vinegar capsules after meals
 * Digestive enzymes capsules after meals
+### Exercises
