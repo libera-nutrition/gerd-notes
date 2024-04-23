@@ -1,5 +1,5 @@
 # gerd-notes
-This document contains practical notes for managing gastroesophageal reflux and concomitant stomach irritation, as learned from years of personal experience. This document is divided into four top-level sections: donts, dos, uncertain, and unexplored. For the table of contents, click the menu icon at the upper right of this file.
+This document contains practical notes for managing gastroesophageal reflux and concomitant stomach irritation, as learned from years of personal experience. This document is divided into three top-level sections: donts, dos, and maybes. For the table of contents, click the menu icon at the upper right of this file.
 
 To submit a correction, after logging in to [GitHub](https://github.com/), create an [issue](https://github.com/impredicative/gerd-notes/issues) or submit a [pull request](https://github.com/impredicative/gerd-notes/pulls). To submit an idea, start a [discussion](https://github.com/impredicative/gerd-notes/discussions). To track changes, use the Watch feature.
 
@@ -53,16 +53,15 @@ As a disclaimer, no part of this document or repository should be considered pro
 ### Monitoring
 1. A routine checkup by an experienced MD gastroenterologist is recommended, particularly via an upper endoscopy examination procedure which requires sedation.
 
-## UNCERTAIN
-### Drink
-1. It is unclear if chlorination or fluoridation or their toxic byproducts in tap water contribute to reflux. To test, filtered water can be consumed with a filter that effectively removes these and other chemicals. Reverse osmosis (RO) removes these chemicals, but a pH plus mineralization cartridge must necessarily be used with RO, and also be replaced very regularly.
 
-## UNEXPLORED
+## MAYBEs
 ### Supplements
 1. Alginate capsules after meals and before bed
 2. Acetic acid / vinegar capsules after meals
 3. Digestive enzymes capsules after meals
 4. Deglycyrrhizinated licorice (DGL)
+### Drink
+1. It is unclear if chlorination or fluoridation or their toxic byproducts in tap water contribute to reflux. To test, filtered water can be consumed with a filter that effectively removes these and other chemicals. Reverse osmosis (RO) removes these chemicals, but a pH plus mineralization cartridge must necessarily be used with RO, and also be replaced very regularly.
 ### Lifestyle
 1. Sleeping on the left side (as opposed to the right side). This is not very practical as it is habitual to routinely switch sides while sleeping.
 ### Exercise
