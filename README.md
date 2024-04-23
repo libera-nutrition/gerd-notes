@@ -37,7 +37,9 @@ No part of this document or repository should be considered professional advice.
 ### Medicines
 1. Famotidine is the one and only H2RA (H2 receptor antagonist) medicine that is in standard use for reflux. It is available cheaply, widely, and over-the-counter. Ranitidine should not be used due to its historical nitrosamine contamination. Cimetidine can be avoided due to its numerous drug interactions that don't exist with famotidine. Famotidine is best used in multiples of 10 mg as needed during the day, typically twice daily, but more if necessary. An excessive dose can lead to an uncomfortable feeling of diminished acid production that passes with time. Unlike PPIs, famotidine is considered to be very safe for use. An issue however arises with the presence of numerous undesirable additives in all commercial famotidine tablets. These additives can be artificial colors, titanium dioxide, talc, lactose, and others. Several of these additives risk worsening reflux. Unfortunately there is no known brand without these additives. The Berkley Jensen brand of famotidine is however an example of a lesser evil with just slightly fewer questionable additive. They make famotidine tablets in a dose of 20 mg, but the pill can easily be split into two. Using a stable dose daily dose is best.
 ### Lifestyle
-### Exercises
+1. It is said to not wear very tight pants, clothes, or belts, as these may risk pushing food up, and worsening reflux.
+### Exercise
+1. Any exercise that increases resting metabolism is good for burning abdominal fat, thereby lowering reflux. All aerobic and anaerobic exercises are expected have this effect. For those with a sedentary lifestyle, the bare minimum that must be done is to walk daily for an hour, if only at home, as this too can eventually be effective for burning abdominal fat. Time spent walking while listening to a podcast passes by very quickly. Ensure excellent hydration during exercise.
 
 ## UNCERTAIN
 ### Drink
@@ -48,4 +50,6 @@ No part of this document or repository should be considered professional advice.
 1. Alginate capsules after meals and before bed
 2. Acetic acid / vinegar capsules after meals
 3. Digestive enzymes capsules after meals
-### Exercises
+### Exercise
+1. Esophageal sphincter exercise as documented in DOI: 10.7759/cureus.24122
+### Surgery
