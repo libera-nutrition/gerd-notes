@@ -17,9 +17,9 @@ As a disclaimer, no part of this document or repository should be considered pro
 2. Do not stop eating certain healthy foods because someone says they worsen reflux. Due to the health benefits of these foods, it is best to repeatedly test and verify such assertions before taking conclusive action. These foods often are extremely nutritious, and discontinuing them comes with a cost.
 3. Avoid eating a few hours before bed. Leftover food in the stomach at bedtime risks worsening esophageal reflux at night while the body is flat.
 ### Drink
-1. Do not consume alcohol regularly as it is notorious for worsening reflux and for increasing the risk of upper gastrointestinal cancers. Sufficiently infrequent consumption may be tolerable.
+1. Do not consume alcohol regularly as it is notorious for worsening reflux and for increasing the risk of upper gastrointestinal cancers. Sufficiently infrequent consumption may however be tolerable.
 ### Lifestyle
-1. Contrary to popular advice for reflux, consider NOT raising the head of your bed at all. Although raising the head while sleeping does help with reflux while in bed, it absolutely can misalign the spine, resulting in chronic lower back pain which subsequently also manifests as referred leg pain.
+1. Contrary to popular advice for reflux, consider NOT raising the head of your bed at all. Although raising the head while sleeping does help with reflux while in bed, it absolutely can misalign the spine, resulting in chronic lower back pain which subsequently also manifests as referred leg and foot pain.
 
 
 ## DOs
