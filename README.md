@@ -11,6 +11,7 @@ No part of this document or repository should be considered professional advice.
 4. Do not excessively consume NSAID painkillers such ibuprofen or others, especially if on an empty stomach or an insufficiently-full stomach. They are associated with a substantial increase in acid, also with ulcers if used chronically. Occasional use after food on a full stomach is fine in this regard.
 5. Do not consume alcohol regularly as it is notorious for worsening reflux and for increasing the risk of upper gastrointestinal cancers. Sufficiently infrequent consumption may be tolerable.
 6. Contrary to popular advice for reflux, consider not raising the head of your bed at all. Although raising the head while sleeping does help with reflux while in bed, it absolutely can misalign the spine, resulting in chronic lower back pain which subsequently also manifests as referred leg pain.
+7. Do not eat food in disposable cardboard plates or boxes that may very well continue to be lined with PFAS for years to come. These plates feel unusually smooth to touch for cardboard. Prefer a regular ceramic, glass, or steel plate instead as these are food-safe materials that will not expose you to toxins such as PFAS, microplastics, nanoplastics, phthalates, or bisphenols. This will not help with reflux, but it will help contribute to stomach health, with the alternative risking chronic low-grade stomach pain and inflammation.
 
 ## DOs
 ### Diet
@@ -23,7 +24,7 @@ No part of this document or repository should be considered professional advice.
 3. Melatonin is linked to cancer prevention. Uncontrolled reflux is associated with esophageal and gastric cancer, so melatonin could help somewhat lower this risk. The preferred dose of melatonin seems to gradually increase with age. Consider these ballpark doses in mg by age: 20-25: 0.5; 26-30: 1; 31-35: 2; 36-40: 3; 41:45: 4; 46+: 5.
 4. Other vitamin and mineral supplements such as selenium, vitamin E, vitamin B9 (folate), and vitamin D3, if in optimal doses, are also individually expected to lower the risk of upper gastrointestinal cancers, although they may not help directly with tissue irritation from reflux.
 ### Powders
-1. If more support is needed for healing from gastritis or mild ulcers, L-glutamine powder at a dose of 5 grams taken once or twice daily is pretty good.
+1. If more support is needed for healing gastritis or mild ulcers, L-glutamine powder at a dose of 5 grams taken once or twice daily is pretty good.
 ### Medicines
 ### Lifestyle
 ### Exercises
