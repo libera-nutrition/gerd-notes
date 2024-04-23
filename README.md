@@ -62,6 +62,7 @@ As a disclaimer, no part of this document or repository should be considered pro
 1. Alginate capsules after meals and before bed
 2. Acetic acid / vinegar capsules after meals
 3. Digestive enzymes capsules after meals
+4. Deglycyrrhizinated licorice (DGL)
 ### Lifestyle
 1. Sleeping on the left side (as opposed to the right side). This is not very practical as it is habitual to routinely switch sides while sleeping.
 ### Exercise
