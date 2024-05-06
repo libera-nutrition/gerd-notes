@@ -50,6 +50,7 @@ As a disclaimer, no part of this document or repository should be considered pro
 2. Adding a pinch of about 1/64 or 1/32 tsp of calcium carbonate powder mixed well into a pitcher of drinking water can help make foods feel less acidic when this water is consumed. The powder won't dissolve fully, and it will mostly settle to the bottom, but some amount is expected to stay mixed with the water.
 ### Lifestyle
 1. It is okay to use a second pillow or a thicker pillow to raise the neck just slightly while in bed. This might minimize reflux just slightly while in bed. The effective pillow height should not be raised excessively, or neck pain will surely result. Over time the pillows can flatten, so replacing them or adding to them can become necessary.
+2. To the extent feasible, sleep on the left side (as opposed to the right side). This admittedly is not very practical to do for a long period, as it is habitual to routinely switch sides while sleeping.
 ### Exercise
 1. Any exercise that increases resting metabolism is good for burning abdominal fat, thereby lowering reflux. All aerobic and anaerobic exercises are expected have this effect. For those with a sedentary lifestyle, the bare minimum that must be done is to walk daily for an hour, if only at home, as this too can eventually be effective for burning abdominal fat. Time spent walking while listening to a podcast passes by quickly. Ensure excellent hydration during exercise.
 ### Monitoring
@@ -64,8 +65,6 @@ As a disclaimer, no part of this document or repository should be considered pro
 4. Deglycyrrhizinated licorice (DGL)
 ### Drink
 1. It is unclear if chlorination or fluoridation or their toxic byproducts in tap water contribute to reflux. To test, filtered water can be consumed with a filter that effectively removes these and other chemicals. Reverse osmosis (RO) removes these chemicals, but a pH plus mineralization cartridge must necessarily be used with RO, and also be replaced very regularly.
-### Lifestyle
-1. Sleeping on the left side (as opposed to the right side). This is not very practical as it is habitual to routinely switch sides while sleeping.
 ### Exercise
 1. Esophageal sphincter exercise as documented in DOI: 10.7759/cureus.24122
 ### Surgery
