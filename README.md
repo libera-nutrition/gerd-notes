@@ -59,7 +59,7 @@ As a disclaimer, no part of this document or repository should be considered pro
 
 ## MAYBEs
 ### Supplements
-1. Alginate capsules after meals and before bed
+1. Alginate capsules after meals and before bed, also in combination with chitosan
 2. Acetic acid / vinegar capsules after meals
 3. Digestive enzymes capsules after meals
 4. Deglycyrrhizinated licorice (DGL)
