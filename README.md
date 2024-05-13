@@ -18,6 +18,7 @@ As a disclaimer, no part of this document or repository should be considered pro
 3. Avoid eating a few hours before bed. Leftover food in the stomach at bedtime risks worsening esophageal reflux at night while the body is flat.
 ### Drink
 1. Do not consume alcohol regularly as it is notorious for worsening reflux and for increasing the risk of upper gastrointestinal cancers. Sufficiently infrequent consumption may however be tolerable.
+2. If you drink tea, whether regular tea or herbal tea, do not use tea bags. Een paper tea bags are mixed with plastic polymers, e.g. PLA (polylactic acid), which are harmful to the human body. This is done to strengthen the bags to prevent tearing. The bags release particles into water. This contributes significantly to reflux. It is advisable to use loose-leaf tea instead, and without any plastic equipment. With regard to herbal tea, capsules of the respective herbs can be used as an alternative.
 ### Lifestyle
 1. Contrary to popular advice for reflux, consider NOT raising the head of your bed at all. Although raising the head while sleeping does help with reflux while in bed, it absolutely can misalign the spine, resulting in chronic lower back pain which subsequently also manifests as referred leg and foot pain.
 2. Do not wear very tight pants, clothes, or belts, as these may risk pushing food up and thereby worsening reflux. This applies both when outdoors and indoors.
