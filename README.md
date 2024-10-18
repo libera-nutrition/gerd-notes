@@ -70,3 +70,4 @@ As a disclaimer, no part of this document or repository should be considered pro
 ### Exercise
 1. Esophageal sphincter exercise as documented in DOI: 10.7759/cureus.24122
 ### Surgery
+1. Although the LINX implant surgery is promising, it doesn't always work, sometimes requiring surgical removal. Also, it is unclear if it makes vomiting difficult which can be a major safety risk in the event of food poisoning.
