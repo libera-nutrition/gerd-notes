@@ -58,7 +58,7 @@ As a disclaimer, no part of this document or repository should be considered pro
 ### Monitoring
 1. A routine checkup by an experienced and trustworthy MD gastroenterologist is recommended, particularly via an upper endoscopy examination procedure which requires sedation. Be sure to check reviews before scheduling an appointment.
 ### Reading
-1. Continue [here](https://redd.it/1i7wnb1) for further reading.
+1. For further reading, continue with these two articles: [general](https://libera-nutrition.github.io/newssurveys/medicalxpress/2025-01-21T00%3A39%3A45%20Comprehensive%20Insights%20into%20Managing%20Acid%20Reflux%2C%20Esophageal%20Health%2C%20and%20GERD%20Prevention%20Strategies.html), [nutritional](https://libera-nutrition.github.io/newssurveys/medicalxpress/2025-01-23T05%3A23%3A08%20Nutrition%2C%20Supplements%2C%20Herbs%2C%20and%20Microbiota%20in%20the%20Treatment%20and%20Management%20of%20Acid%20Reflux.html).
 
 
 ## MAYBEs
