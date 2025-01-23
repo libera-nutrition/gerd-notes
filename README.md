@@ -57,6 +57,8 @@ As a disclaimer, no part of this document or repository should be considered pro
 1. Any exercise that increases resting metabolism is good for burning abdominal fat, thereby lowering reflux. All aerobic and anaerobic exercises are expected have this effect. For those with a sedentary lifestyle, the bare minimum that must be done is to walk daily for an hour, if only at home, as this too can eventually be effective for burning abdominal fat. Time spent walking while listening to a podcast passes by quickly. Ensure excellent hydration during exercise.
 ### Monitoring
 1. A routine checkup by an experienced and trustworthy MD gastroenterologist is recommended, particularly via an upper endoscopy examination procedure which requires sedation. Be sure to check reviews before scheduling an appointment.
+### Reading
+1. Continue [here](https://redd.it/1i7wnb1) for further reading.
 
 
 ## MAYBEs
